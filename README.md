@@ -32,7 +32,7 @@ Garry wants to create a to-do app where users can manage their daily tasks. Garr
 
 3.Enter the due date
 
-4.We can apply CRUD operations
+4.We can apply CRUD and mark as done operations
 
 
 ## APIs developed
